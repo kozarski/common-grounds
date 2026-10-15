@@ -11,14 +11,14 @@
 A free coffee game for Playdate. Help Colby serve pour-overs, espresso and hot chocolate to twenty opinionated regulars. Good drinks fill the tip jar. Three complaints close the shop early.
 
 <p align="center">
-  <a href="https://github.com/kozarski/common-grounds/releases/latest/download/CommonGrounds.pdx.zip"><img src="media/playdate-download.png" alt="Download Common Grounds for Playdate, free" width="197"></a>
+  <a href="https://github.com/kozarski/common-grounds/releases/latest/download/CommonGrounds.pdx.zip"><img src="media/playdate-download.png" alt="Download Common Grounds for Playdate, free" width="197"></a><br>
+  <sub><!-- game-version -->v0.8.3 · build 1<!-- /game-version --></sub>
 </p>
-
-Follow [Playdate’s official sideloading guide](https://help.play.date/games/sideloading/).
 
 ---
 
-<p align="right">
-  Made by <a href="https://www.coreykozarski.com/">Corey Kozarski</a><br>
-  <a href="CREDITS.md">Credits</a>
-</p>
+<div>
+  <a href="https://www.coreykozarski.com/"><img align="right" src="media/creator.svg" alt="Made by Corey Kozarski" width="226" height="24"></a>
+  Follow <a href="https://help.play.date/games/sideloading/">Playdate’s official sideloading guide</a>.
+  <p align="right"><a href="CREDITS.md">Credits</a></p>
+</div>
