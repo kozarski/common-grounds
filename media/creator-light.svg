@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="24" viewBox="0 0 206 24" preserveAspectRatio="xMaxYMid meet">
+  <style>
+    text { fill: #1f2328; }
+    .name { fill: #0969da; text-decoration: underline; }
+  </style>
+  <text x="206" y="18.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16">Made by <tspan class="name">Corey Kozarski</tspan></text>
+</svg>
